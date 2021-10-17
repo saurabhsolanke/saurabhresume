@@ -75,7 +75,7 @@
                                 <tr>
                                     <th scope="row"></th>
                                     <td>B.C.S 2017-2020</td>
-                                    <td>60.20%</td>
+                                    <td>66.20%</td>
                                 </tr>
                             </tbody>
                         </table>
