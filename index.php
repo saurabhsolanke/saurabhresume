@@ -75,7 +75,7 @@
                                 <tr>
                                     <th scope="row"></th>
                                     <td>B.C.S 2017-2020</td>
-                                    <td>66.20%</td>
+                                    <td>60.20%</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -127,7 +127,10 @@
                             <h5>
                             <li>First Trimester - Plasma Donation For Covid-19 Patients on php.</li>
                             <li>Second Trimester - Website Skeleton on php.</li>
-                            <li>Third Trimester - Academic Almanac on  ASP.NET.</li></h5><hr>
+                            <li>Third Trimester - Academic Almanac on  ASP.NET.</li>
+                            <li>Fourth Trimester - Trivia Quiz Android App.</li>
+                            </h5>
+                            <hr>
                     </div>
                 </div>
 
@@ -136,13 +139,19 @@
                         <h2>Skills</h2><br>
                             <b><h4>Web Technologies</h4><br>
                             <h5></b>
-                            <li>HTML5</li>
-                            <li>CSS</li>
+                                <b>Frontend</b>
+                            <li>HTML 5</li>
+                            <li>CSS 3</li>
                             <li>Bootstrap 4</li>
-                            <li>Php</li>
                             <li>JavaScript</li>
-                            <li>Jquery</li>
-                            <li>SQL</li>
+                            <li>ReactJS</li>
+                             <br>
+
+                            <b>Backend</b>
+                            
+                            <li>MySQL</li>
+                            <li>Firebase</li>
+                            <li>Php</li>
                             </h5><hr>
                     </div>
 
